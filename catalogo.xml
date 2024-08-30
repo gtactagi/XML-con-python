@@ -1,0 +1,283 @@
+<catalogo>
+    <!-- Categoría: Electrónica -->
+    <producto>
+        <descripcion>Smartphone 6.5 pulgadas</descripcion>
+        <precio>299.99</precio>
+        <categoria>Electrónica</categoria>
+        <stock>25</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>10.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Tablet 10 pulgadas</descripcion>
+        <precio>199.99</precio>
+        <categoria>Electrónica</categoria>
+        <stock>15</stock>
+        <modo_pago>Credito</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>12.50</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Auriculares inalámbricos</descripcion>
+        <precio>49.99</precio>
+        <categoria>Electrónica</categoria>
+        <stock>40</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <costo_envio>5.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Smart TV 50 pulgadas</descripcion>
+        <precio>499.99</precio>
+        <categoria>Electrónica</categoria>
+        <stock>8</stock>
+        <modo_pago>Credito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <costo_envio>20.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Consola de videojuegos</descripcion>
+        <precio>399.99</precio>
+        <categoria>Electrónica</categoria>
+        <stock>12</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>15.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Cámara fotográfica DSLR</descripcion>
+        <precio>599.99</precio>
+        <categoria>Electrónica</categoria>
+        <stock>5</stock>
+        <modo_pago>Credito</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>18.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Altavoz Bluetooth portátil</descripcion>
+        <precio>29.99</precio>
+        <categoria>Electrónica</categoria>
+        <stock>50</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <costo_envio>4.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Monitor 24 pulgadas</descripcion>
+        <precio>129.99</precio>
+        <categoria>Electrónica</categoria>
+        <stock>22</stock>
+        <modo_pago>Credito</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>10.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Reloj inteligente</descripcion>
+        <precio>79.99</precio>
+        <categoria>Electrónica</categoria>
+        <stock>35</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <costo_envio>6.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Impresora láser multifunción</descripcion>
+        <precio>249.99</precio>
+        <categoria>Electrónica</categoria>
+        <stock>10</stock>
+        <modo_pago>Credito</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>15.00</costo_envio>
+    </producto>
+
+    <!-- Categoría: Hogar -->
+    <producto>
+        <descripcion>Sofá 3 plazas</descripcion>
+        <precio>499.99</precio>
+        <categoria>Hogar</categoria>
+        <stock>7</stock>
+        <modo_pago>Credito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>30.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Mesa de comedor 6 personas</descripcion>
+        <precio>299.99</precio>
+        <categoria>Hogar</categoria>
+        <stock>10</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <costo_envio>25.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Silla ergonómica</descripcion>
+        <precio>89.99</precio>
+        <categoria>Hogar</categoria>
+        <stock>20</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>8.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Colchón King Size</descripcion>
+        <precio>599.99</precio>
+        <categoria>Hogar</categoria>
+        <stock>5</stock>
+        <modo_pago>Credito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>40.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Aspiradora sin bolsa</descripcion>
+        <precio>149.99</precio>
+        <categoria>Hogar</categoria>
+        <stock>18</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <costo_envio>12.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Refrigerador de 400L</descripcion>
+        <precio>699.99</precio>
+        <categoria>Hogar</categoria>
+        <stock>8</stock>
+        <modo_pago>Credito</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>50.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Microondas digital 25L</descripcion>
+        <precio>99.99</precio>
+        <categoria>Hogar</categoria>
+        <stock>30</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <costo_envio>10.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Lámpara de pie moderna</descripcion>
+        <precio>59.99</precio>
+        <categoria>Hogar</categoria>
+        <stock>25</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>7.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Lavadora 8kg</descripcion>
+        <precio>399.99</precio>
+        <categoria>Hogar</categoria>
+        <stock>10</stock>
+        <modo_pago>Credito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>30.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Plancha de vapor</descripcion>
+        <precio>39.99</precio>
+        <categoria>Hogar</categoria>
+        <stock>50</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <costo_envio>5.00</costo_envio>
+    </producto>
+
+    <!-- Categoría: Moda -->
+    <producto>
+        <descripcion>Camisa de algodón</descripcion>
+        <precio>29.99</precio>
+        <categoria>Moda</categoria>
+        <stock>100</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <costo_envio>3.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Jeans ajustados</descripcion>
+        <precio>49.99</precio>
+        <categoria>Moda</categoria>
+        <stock>75</stock>
+        <modo_pago>Credito</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>4.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Zapatillas deportivas</descripcion>
+        <precio>59.99</precio>
+        <categoria>Moda</categoria>
+        <stock>60</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <costo_envio>6.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Chaqueta de cuero</descripcion>
+        <precio>199.99</precio>
+        <categoria>Moda</categoria>
+        <stock>20</stock>
+        <modo_pago>Credito</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>10.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Vestido de verano</descripcion>
+        <precio>39.99</precio>
+        <categoria>Moda</categoria>
+        <stock>50</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <costo_envio>3.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Gafas de sol</descripcion>
+        <precio>19.99</precio>
+        <categoria>Moda</categoria>
+        <stock>200</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>2.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Reloj de pulsera</descripcion>
+        <precio>79.99</precio>
+        <categoria>Moda</categoria>
+        <stock>40</stock>
+        <modo_pago>Credito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>5.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Bolso de cuero</descripcion>
+        <precio>129.99</precio>
+        <categoria>Moda</categoria>
+        <stock>30</stock>
+        <modo_pago>Credito</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>7.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Bufanda de lana</descripcion>
+        <precio>24.99</precio>
+        <categoria>Moda</categoria>
+        <stock>80</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Transferencia</modo_pago>
+        <costo_envio>3.00</costo_envio>
+    </producto>
+    <producto>
+        <descripcion>Sombrero de ala ancha</descripcion>
+        <precio>34.99</precio>
+        <categoria>Moda</categoria>
+        <stock>50</stock>
+        <modo_pago>Debito</modo_pago>
+        <modo_pago>Efectivo</modo_pago>
+        <costo_envio>4.00</costo_envio>
+    </producto>
+</catalogo>
